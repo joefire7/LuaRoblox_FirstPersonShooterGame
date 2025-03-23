@@ -1,5 +1,5 @@
 # LuaRoblox_FirstPersonShooterGame
-
+In a distant space outpost under siege, rogue AI robots have gone berserk. As a powerful elemental warrior, you must use first-person spellcasting abilities — fire, lightning, and more — to fight back. Dodge deadly shots, cast powerful spells, and survive the uprising of the bad robots in this intense first-person magic shooter in space.
 <img width="1416" alt="Screenshot 2025-03-23 at 2 05 35 AM" src="https://github.com/user-attachments/assets/5bcdaef1-1858-407e-a803-3638a14b8fc3" />
 <img width="1420" alt="Screenshot 2025-03-23 at 2 04 17 AM" src="https://github.com/user-attachments/assets/9111c125-0715-4e62-8307-0fdcc325ea6c" />
 <img width="1412" alt="Screenshot 2025-03-23 at 2 03 53 AM" src="https://github.com/user-attachments/assets/5b0382bf-d1b8-48b9-91db-cc8440c36620" />
